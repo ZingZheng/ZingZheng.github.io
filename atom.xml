@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zingzheng.github.io</id>
     <title>zingzheng</title>
-    <updated>2019-06-11T08:32:14.549Z</updated>
+    <updated>2019-06-12T13:53:32.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zingzheng.github.io"/>
     <link rel="self" href="https://zingzheng.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>闲情偶寄</subtitle>
     <logo>https://zingzheng.github.io/images/avatar.png</logo>
     <icon>https://zingzheng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, zingzheng</rights>
